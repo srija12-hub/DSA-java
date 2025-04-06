@@ -15,12 +15,14 @@ It helps me improve problem-solving and coding skills for placements and intervi
 
 ## 💻 Technologies Used
 
-- Java
-- GitHub
-- Replit
+- Java ☕
+- GitHub 🐙
+- Replit 💻
 
 ---
 
 ## 🙋‍♂️ Author
 
-[srija](https://github.com/srija12-hub)
+**Name:** Srija
+- **GitHub:** [@srija12-hub](https://github.com/srija12-hub)
+
