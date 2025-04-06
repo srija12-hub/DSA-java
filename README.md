@@ -9,7 +9,7 @@ It helps me improve problem-solving and coding skills for placements and intervi
 
 | Day | Topic | File |
 |-----|--------|------|
-| 1 | Hello World Program | `Day01_helloworld` |
+| 1 | Hello World Program | Day01_helloworld |
 
 ---
 
